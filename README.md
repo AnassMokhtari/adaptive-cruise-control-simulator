@@ -21,10 +21,6 @@ CAN monitor view:
 
 ![CAN Monitor](ACC_Test_Pics/Test1_CAN_Monitor.png)
 
-Report illustration (overview):
-
-![Report Overview](ACC_Test_Pics/Rapport.png)
-
 ---
 
 ## Key features

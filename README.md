@@ -60,17 +60,13 @@ Report illustration (overview):
 
 ```
 ACC_Project/
-├─ ACC_PERFECT.py                       # Main / recommended simulator entry
-├─ MOKHTARI_Anass_Projet.py             # Alternate version (same spirit)
+├─ ACC_App.py                       # Main / recommended simulator entry
 ├─ ACC_Test_Pics/                       # Screenshots for demo/report
 │  ├─ Test1.png
 │  ├─ Test1_CAN_Monitor.png
 │  ├─ Test2.png
 │  ├─ Test2_CAN_Monitor.png
-│  └─ Rapport.png
-├─ MOKHTARI_Anass_Rapport_de_projet.pdf # Project report (documentation)
-├─ R#U00e9gulateur de vitesse . V1.2.pdf
-└─ R#U00e9gulateur de vitesse . V1.2.docx
+└─  MOKHTARI_Anass_Rapport_de_projet.pdf # Project report (documentation)
 ```
 
 **Recommended entry point:** `ACC_PERFECT.py`
@@ -97,13 +93,7 @@ pip install PySide6
 From the project folder:
 
 ```bash
-python ACC_PERFECT.py
-```
-
-(or)
-
-```bash
-python MOKHTARI_Anass_Projet.py
+python ACC_App.py
 ```
 
 ### Typical usage flow (GUI)

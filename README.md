@@ -232,5 +232,4 @@ pip install PySide6
 
 ## License
 
-No license is included by default.  
-If you plan to publish this publicly and accept reuse, add a license (MIT is a common choice for academic software).
+MIT License.

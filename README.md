@@ -56,13 +56,13 @@ CAN monitor view:
 
 ```
 ACC_Project/
-├─ ACC_App.py                       # Main / recommended simulator entry
-├─ ACC_Test_Pics/                       # Screenshots for demo/report
+├─ ACC_App.py                              # Main / simulator entry
+├─ ACC_Test_Pics/                          # Screenshots for demo/report
 │  ├─ Test1.png
 │  ├─ Test1_CAN_Monitor.png
 │  ├─ Test2.png
 │  ├─ Test2_CAN_Monitor.png
-└─  MOKHTARI_Anass_Rapport_de_projet.pdf # Project report (documentation)
+└─  MOKHTARI_Anass_Rapport_de_projet.pdf   # Project report (documentation)
 ```
 
 **Recommended entry point:** `ACC_PERFECT.py`
